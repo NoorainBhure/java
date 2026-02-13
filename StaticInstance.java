@@ -25,11 +25,6 @@
 
                m3.model1="TATA";
               
-
-              
-              
-
-
               m.carInfo();
               m1.carInfo();
               m2.carInfo();
