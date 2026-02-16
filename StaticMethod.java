@@ -2,7 +2,7 @@ class AvengerStatic{
     public static void main(String[] args) {
         AvengerStatic ironMan=new AvengerStatic();
               ironMan.showPower();
-              
+            
     }
     static void showName(){
         System.out.println("i am an IronMan");
